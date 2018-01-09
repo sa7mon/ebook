@@ -17,3 +17,9 @@ With the above packages installed and added to your `PATH`, simply run `make`
 to compile this document.  The output is a PDF file named
 `software-testing-laboon-ebook.pdf`.
 
+## Compiling on Ubuntu 
+
+**Tested on 16.04 LTS**
+
+* `sudo apt install texlive-latex-recommended pandoc texlive-xetex`
+* `make`
